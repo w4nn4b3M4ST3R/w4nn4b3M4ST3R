@@ -7,7 +7,7 @@
 
 - 🎓 **Currently studying Computer Science at:** HCMC University of Technology (HCMUT)
 - 🌱 **Passionate about:** Software Development & Artificial Intelligence
-- 💬 **Quote I live by:** *"One day you would become the person you dream"*
+- 💬 **Quote I live by:** *"One day, you'll become the version you’ve always fought for"*
 
 ## ✨ GitHub Stats   
 
