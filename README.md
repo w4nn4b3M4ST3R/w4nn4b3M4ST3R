@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🎓 **Currently studying Computer Science – Honor Program at:** Ho Chi Minh City University of Technology (HCMUT)
-- 🌱 **Passionate about:** Software Development & Artificial Intelligence
+- 🌱 **Passionate about:** Machine Learning & Deep Learning
 - 💬 **Quote I live by:** *"One day, you'll become the version you’ve always fought for"*
 
 ## ✨ GitHub Stats   
