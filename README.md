@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm w4nn4b3M4T3R – Student @ HCMUT 💻
 
 
-## 🚀 About Me
+## About Me
 <img align="right" width="315" src="https://miro.medium.com/max/3000/1*VenHzUAglmaRajxjDI_f7A.gif">
 
 - 🎓 **Currently studying Computer Science – Honor Program at:** Ho Chi Minh City University of Technology (HCMUT)
 - 🌱 **Passionate about:** Machine Learning & Deep Learning
-- 💬 **Quote I live by:** *"One day, you'll become the version you’ve always fought for"*
+- 💬 **Favorite Quote:** *“When something is important enough, you do it even if the odds are not in your favor.” — Elon Musk*
 
 <br/>
 
