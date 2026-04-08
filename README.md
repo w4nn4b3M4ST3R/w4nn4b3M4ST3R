@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm w4nn4b3M4T3R – Student @ HCMUT 💻
+# 👋 Hi there! I'm w4nn4b3M4ST3R – Student @ HCMUT 💻
 
 
 ## About Me
