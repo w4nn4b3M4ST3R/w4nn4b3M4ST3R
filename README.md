@@ -2,7 +2,6 @@
 
 
 ## About Me
-<img align="right" width="315" src="https://miro.medium.com/max/3000/1*VenHzUAglmaRajxjDI_f7A.gif">
 
 - 🎓 **Currently studying Computer Science – Honor Program at:** Ho Chi Minh City University of Technology (HCMUT)
 - 🌱 **Passionate about:** Machine Learning & Deep Learning
@@ -12,17 +11,29 @@
 
 ## ✨ GitHub Stats   
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fw4nn4b3M4ST3R&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
+<p align="center">
+  <b>👀 Profile Visitors</b><br/><br/>
+  <img
+    src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fw4nn4b3M4ST3R&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat"
+    alt="Visitors"
+  />
+</p>
 
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=w4nn4b3M4ST3R&show_icons=true&hide=contribs,issues&hide_border=true%22%20" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4nn4b3M4ST3R&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src="./coding.gif"/></td>
-</tr>
-<table>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w4nn4b3M4ST3R&theme=tokyonight"
+    alt="GitHub Stats"
+    width="90%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/w4nn4b3M4ST3R/w4nn4b3M4ST3R/main/coding.gif"
+    alt="Coding GIF"
+    width="90%"
+  />
+</p>
 
 
 ## ⚙️ Tech Stack 
